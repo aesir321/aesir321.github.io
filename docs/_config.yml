@@ -22,7 +22,7 @@ title: Will Parker
 email: parkerwill625 at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog designed to document my development and progression aimed at focusing on machine learning, data science and software development.  (Also about anything else that I find interesting.)
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "/docs/" # the subpath of your site, e.g. /blog
 url: "aesir321.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aesir321
 linkedin_username: will-parker-0a52301a
