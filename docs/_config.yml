@@ -28,7 +28,7 @@ github_username:  aesir321
 linkedin_username: will-parker-0a52301a
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
