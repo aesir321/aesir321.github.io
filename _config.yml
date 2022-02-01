@@ -19,14 +19,25 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Will Parker
-email: hello at willparker dot ai
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog designed to document my development and progression aimed at focusing on machine learning, data science and software development.  (Also about anything else that I find interesting.)
 domain: "aesir321.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aesir321.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  aesir321
+
+# Author Metadata
+name: Will Parker
+email: hello at willparker dot ai
+
+# social
+github_username: aesir321
 linkedin_username: will-parker-0a52301a
+
+# analytics
+google_analytics: G-K7Y29J33JQ
+
+# display
+show_exercpts: true
 
 # Build settings
 theme: minima
