@@ -26,15 +26,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aesir321.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Metadata
-author:
-  name: Will Parker
-  email: "hello at willparker dot ai"
+name: Will Parker
+email: hello at willparker dot ai
 
 # social
-minima:
-  social_links:
-    github: aesir321
-    linkedin: will-parker-0a52301a
+github_username: aesir321
+linkedin_username: will-parker-0a52301a
 
 # analytics
 google_analytics: G-K7Y29J33JQ
