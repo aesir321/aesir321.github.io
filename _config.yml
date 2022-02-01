@@ -25,8 +25,18 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: "aesir321.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aesir321.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  aesir321
-linkedin_username: will-parker-0a52301a
+
+# social
+minima:
+  social_links:
+    github: aesir321
+    linkedin: will-parker-0a52301a
+
+# analytics
+google_analytics: G-K7Y29J33JQ
+
+# display
+show_exercpts: true
 
 # Build settings
 theme: minima
