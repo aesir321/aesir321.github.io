@@ -4,6 +4,3 @@
 
 layout: home
 ---
-
-
-Currently I am still getting this blog up and running but check back soon!

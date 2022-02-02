@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2022-02-02 20:46:47 +0100
+categories: personal
+---
+
+Thanks for stopping by! I'm starting this blog to document things I work on, what I learn and what I am curious about.  I hope it will serve me in the future to help recall my progress as I develop as a Machine Learning / Software Engineer but perhaps, to also provide others with a new perspective and to help them in their respective journeys.  
+
+I used to always be very focused on the goal of getting to where I was going and not necessarily about always *enjoying* the journey I was taking.  Simultaneously working as a professional (in any industry) has, I feel, always added a certain amount of pressure to always deliver results and somehow has caused a compounding feeling of [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) and [Fear of Failure](https://en.wikipedia.org/wiki/Fear_of_negative_evaluation) to develop in many.  This can be dangerous because it can actively prevent you from developing and improving.  You only need to scour reddit or any other social media site and chances are you'll come across a post about one or the other. 
+
+**Failure is a good thing**; it helps you to develop as a person - **if you're not failing then you're also not growing** (said someone at some point in time, that I can't remember right now).  In a training that I recently attended on [AI Project Management](https://www.appliedai.de/access-to-ai-trainings) - given by [appliedAI](https://appliedai.de/), I learnt that (apparently) [Meta](https://about.facebook.com/meta/), even go as far as to say, that they expect 50% of all their AI/ML projects to **fail**, and if they don't, then they aren't challenging/risky enough. I hope that by demonstrating what I do not know, what I learn and how I get there, that others will also be encouraged to develop and learn as well.  
+
+## Where did I get this idea from / Why am I doing this?
+
+I started reading a fantastic book recently called [Show Your Work by Austin Kleon](https://austinkleon.com/show-your-work/) within which he makes the very simple point that you should, you guessed it, **show your work**.  The idea being that you shouldn't worry about being a perfectionist, and that an end goal is reached with many, small but consistent steps.  By actively working towards your goal a little bit every day, you will, overtime, make meaningful progress.  The book itself is filled with excellent, to-the-point illustrations that really give meaning to the saying "a picture is worth a thousand words".  I haven't finished reading the book yet but it is one of the best and most motivating books I have read in a very long time.
+
+## So how reliable is the stuff on this blog?
+
+I can't claim that everything I will post on this blog will be correct or even accurate, but it will reflect my understanding of a topic at the time of writing.  The main focus will be about Machine Learning and Data Science, but I will also use it for other content which is important and/or relevant to me.  It will help me to consolidate my thoughts and define areas which *I* need to work on.  I hope, it will also provide some help to anyone who happens to stumble upon my blog, who is a little behind me in their personal journey or a little ahead.  Often people at similar stages in their journeys can learn a lot more from someone at a similar stage than from an expert.  Purely because it was so long ago since the expert mastered their craft that often they cannot relate well to the *journeyman* who is still moving along the path.
