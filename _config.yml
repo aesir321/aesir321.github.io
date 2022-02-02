@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Will Parker
+title: Stream of Codesciousness
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog designed to document my development and progression aimed at focusing on machine learning, data science and software development.  (Also about anything else that I find interesting.)
 domain: "aesir321.github.io"
@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aesir321.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Metadata
-name: Will Parker
+author: Will Parker
 email: hello at willparker dot ai
 
 # social
@@ -37,7 +37,7 @@ linkedin_username: will-parker-0a52301a
 google_analytics: G-K7Y29J33JQ
 
 # display
-show_exercpts: true
+show_excerpts: true
 
 # Build settings
 theme: minima
